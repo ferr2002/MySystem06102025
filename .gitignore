@@ -1,0 +1,4 @@
+# Dependências
+node_modules/
+# Pasta de distribuição
+dist/
